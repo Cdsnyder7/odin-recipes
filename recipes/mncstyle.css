@@ -29,3 +29,11 @@ li, ul {
 .steps, ol {
     background-color: cyan;
 } 
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 400px;
+}
