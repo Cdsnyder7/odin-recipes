@@ -9,3 +9,23 @@
 .main {
     font-size: 28px;
 }
+
+.sub {
+    font-size: 18px;
+}
+
+p {
+    background-color: black;
+    color: white;
+}
+
+li, ul {
+    background-color: darkgreen;
+    color: white;
+}
+
+
+
+.steps, ol {
+    background-color: cyan;
+} 
