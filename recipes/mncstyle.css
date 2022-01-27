@@ -1,0 +1,11 @@
+.header {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-weight: 600;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+
+.main {
+    font-size: 28px;
+}
